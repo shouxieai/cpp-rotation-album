@@ -5,7 +5,7 @@
 
 # 效果
 <video controls>
-  <source src="workspace/output.mp4" type="video/mp4">
+  <source src="https://youtu.be/fJbpTYE1Ouk" type="video/mp4">
 </video>
 
 # Reference
