@@ -4,7 +4,9 @@
 - cpp rotation album，基于cpp eigen实现的3d旋转相册，GAMES101复现内容
 
 # 效果
-<video src="workspace/output.mp4"></video>
+<video controls>
+  <source src="workspace/output.mp4" type="video/mp4">
+</video>
 
 # Reference
 - https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
